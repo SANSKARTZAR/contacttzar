@@ -26,7 +26,7 @@ const ContactFormNew = () => {
 
   return (
     <>
-    <h1>/ new form</h1>
+    <h1>changes/ new form</h1>
       <form
         action={handleSubmit}
         className="py-4 mt-4 border-t flex flex-col gap-5"
